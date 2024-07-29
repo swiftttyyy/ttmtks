@@ -1,0 +1,80 @@
+@font-face {
+    font-family: BitcoinFont;
+    font-style: normal;
+    font-weight: 100;
+    font-display: swap;
+    src: url(bitcoinfont/thin-100.custom-subset.woff2) format("woff2"),url(bitcoinfont/thin-100.custom-subset.woff) format("woff");
+    unicode-range: U+20bf
+}
+
+@font-face {
+    font-family: BitcoinFont;
+    font-style: normal;
+    font-weight: 200;
+    font-display: swap;
+    src: url(bitcoinfont/ultralight-200.custom-subset.woff2) format("woff2"),url(bitcoinfont/ultralight-200.custom-subset.woff) format("woff");
+    unicode-range: U+20bf
+}
+
+@font-face {
+    font-family: BitcoinFont;
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url(bitcoinfont/light-300.custom-subset.woff2) format("woff2"),url(bitcoinfont/light-300.custom-subset.woff) format("woff");
+    unicode-range: U+20bf
+}
+
+@font-face {
+    font-family: BitcoinFont;
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(bitcoinfont/regular-400.custom-subset.woff2) format("woff2"),url(bitcoinfont/regular-400.custom-subset.woff) format("woff");
+    unicode-range: U+20bf
+}
+
+@font-face {
+    font-family: BitcoinFont;
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(bitcoinfont/medium-500.custom-subset.woff2) format("woff2"),url(bitcoinfont/medium-500.custom-subset.woff) format("woff");
+    unicode-range: U+20bf
+}
+
+@font-face {
+    font-family: BitcoinFont;
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url(bitcoinfont/semibold-600.custom-subset.woff2) format("woff2"),url(bitcoinfont/semibold-600.custom-subset.woff) format("woff");
+    unicode-range: U+20bf
+}
+
+@font-face {
+    font-family: BitcoinFont;
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(bitcoinfont/bold-700.custom-subset.woff2) format("woff2"),url(bitcoinfont/bold-700.custom-subset.woff) format("woff");
+    unicode-range: U+20bf
+}
+
+@font-face {
+    font-family: BitcoinFont;
+    font-style: normal;
+    font-weight: 800;
+    font-display: swap;
+    src: url(bitcoinfont/heavy-800.custom-subset.woff2) format("woff2"),url(bitcoinfont/heavy-800.custom-subset.woff) format("woff");
+    unicode-range: U+20bf
+}
+
+@font-face {
+    font-family: BitcoinFont;
+    font-style: normal;
+    font-weight: 900;
+    font-display: swap;
+    src: url(bitcoinfont/black-900.custom-subset.woff2) format("woff2"),url(bitcoinfont/black-900.custom-subset.woff) format("woff");
+    unicode-range: U+20bf
+}

@@ -1,0 +1,17 @@
+
+
+Steps:
+
+
+    //change server hostname
+
+sudo hostnamectl set-hostname mail.bouldermac.com
+
+nano /etc/hosts
+
+    //Setup subdomain “A” record
+
+
+    //Install virtuamin with cmds found at https://virtualmin.com/download
+
+

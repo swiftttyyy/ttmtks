@@ -1,0 +1,27 @@
+<svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M3 1V69H71" stroke="black" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="13" y="26" width="9" height="19" rx="0.5" stroke="black" stroke-width="1.2"/>
+<line x1="17.4" y1="25.4" x2="17.4" y2="19.6" stroke="black" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="17.4" y1="51.4" x2="17.4" y2="45.6" stroke="black" stroke-width="1.2" stroke-linecap="round"/>
+<rect x="43" y="23" width="9" height="19" rx="0.5" stroke="black" stroke-width="1.2"/>
+<line x1="47.4" y1="22.4" x2="47.4" y2="16.6" stroke="black" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="47.4" y1="48.4" x2="47.4" y2="42.6" stroke="black" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="32.4" y1="11.4" x2="32.4" y2="5.6" stroke="black" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="32.4" y1="37.4" x2="32.4" y2="31.6" stroke="black" stroke-width="1.2" stroke-linecap="round"/>
+<rect x="28" y="12" width="9" height="19" rx="0.5" stroke="#48A6EB" stroke-width="1.2"/>
+<line x1="62.4" y1="33.4" x2="62.4" y2="27.6" stroke="black" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="62.4" y1="59.4" x2="62.4" y2="53.6" stroke="black" stroke-width="1.2" stroke-linecap="round"/>
+<rect x="58" y="34" width="9" height="19" rx="0.5" stroke="#48A6EB" stroke-width="1.2"/>
+<line x1="5.4" y1="55.6" x2="3.6" y2="55.6" stroke="black" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="5.4" y1="45.6" x2="3.6" y2="45.6" stroke="black" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="5.4" y1="35.6" x2="3.6" y2="35.6" stroke="black" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="5.4" y1="25.6" x2="3.6" y2="25.6" stroke="black" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="5.4" y1="15.6" x2="3.6" y2="15.6" stroke="black" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="5.4" y1="5.6" x2="3.6" y2="5.6" stroke="black" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="63.6" y1="66.6" x2="63.6" y2="68.4" stroke="black" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="53.6" y1="66.6" x2="53.6" y2="68.4" stroke="black" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="43.6" y1="66.6" x2="43.6" y2="68.4" stroke="black" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="33.6" y1="66.6" x2="33.6" y2="68.4" stroke="black" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="23.6" y1="66.6" x2="23.6" y2="68.4" stroke="black" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="13.6" y1="66.6" x2="13.6" y2="68.4" stroke="black" stroke-width="1.2" stroke-linecap="round"/>
+</svg>
